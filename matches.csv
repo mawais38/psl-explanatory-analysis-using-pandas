@@ -1,0 +1,147 @@
+Id,season,date,team1,team2,toss_winner,toss_decision,winner,win_by_wickets,win_by_runs,man_of_match,venue,umpire1,umpire2,result
+1,2016,2/4/2016,Islamabad United,Quetta Gladiators,Quetta Gladiators,field,Quetta Gladiators,8,0,Mohammad Nawaz ,Dubai International Cricket Stadium,JS Wilson,Shozab Raza,normal
+2,2016,2/5/2016,Peshawar Zalmi,Islamabad United,Peshawar Zalmi,bat,Peshawar Zalmi,0,24,Mohammad Asghar,Dubai International Cricket Stadium,Rashid Riaz,Shozab Raza,normal
+3,2016,2/5/2016,Lahore Qalandars,Karachi Kings,Karachi Kings,field,Karachi Kings,7,0,Shakib Al Hasan,Dubai International Cricket Stadium,Rashid Riaz,Shozab Raza,normal
+4,2016,2/6/2016,Lahore Qalandars,Peshawar Zalmi,Peshawar Zalmi,field,Peshawar Zalmi,9,0,Tamim Iqbal,Dubai International Cricket Stadium,Rashid Riaz,JS Wilson,normal
+5,2016,2/7/2016,Karachi Kings,Quetta Gladiators,Quetta Gladiators,field,Quetta Gladiators,8,0,Ahmed Shehzad,Dubai International Cricket Stadium,Rashid Riaz,Shozab Raza,normal
+6,2016,2/7/2016,Quetta Gladiators,Peshawar Zalmi,Quetta Gladiators,field,Quetta Gladiators,3,0,Mohammad Nawaz ,Dubai International Cricket Stadium,Rashid Riaz,Shozab Raza,normal
+7,2016,2/7/2016,Islamabad United,Karachi Kings,Karachi Kings,field,Islamabad United,0,2,Saeed Ajmal,Dubai International Cricket Stadium,JS Wilson,Rashid Riaz,normal
+8,2016,2/8/2016,Lahore Qalandars,Quetta Gladiators,Quetta Gladiators,field,Lahore Qalandars,0,63, Umar Akmal,Dubai International Cricket Stadium,JS Wilson,Aleem Dar,normal
+9,2016,2/10/2016,Islamabad United,Lahore Qalandars,Islamabad United,field,Islamabad United,8,0,Sharjeel Khan,Dubai International Cricket Stadium,JS Wilson,Aleem Dar,normal
+10,2016,2/11/2016,Islamabad United,Quetta Gladiators,Quetta Gladiators,field,Quetta Gladiators,7,0,GD Elliott,Dubai International Cricket Stadium,JS Wilson,Aleem Dar,normal
+11,2016,2/12/2016,Peshawar Zalmi,Islamabad United,Peshawar Zalmi,field,Peshawar Zalmi,7,0,Tamim Iqbal,Dubai International Cricket Stadium,Shozab Raza,Rashid Riaz,normal
+12,2016,2/12/2016,Karachi Kings,Lahore Qalandars,Lahore Qalandars,field,Karachi Kings,0,27,RS Bopara,Sharjah Cricket Stadium,Aleem Dar,JS Wilson,normal
+13,2016,2/13/2016,Lahore Qalandars,Peshawar Zalmi,Peshawar Zalmi,field,Lahore Qalandars,0,4,CS Delport,Sharjah Cricket Stadium,Aleem Dar,JS Wilson,normal
+14,2016,2/13/2016,Karachi Kings,Quetta Gladiators,Karachi Kings,bat,Quetta Gladiators,5,0,GD Elliott,Sharjah Cricket Stadium,Shozab Raza,Rashid Riaz,normal
+15,2016,2/14/2016,Quetta Gladiators,Peshawar Zalmi,Quetta Gladiators,bat,Peshawar Zalmi,8,0,Shahid Afridi,Sharjah Cricket Stadium,Shozab Raza,Ahmed Shahab,normal
+16,2016,2/14/2016,Karachi Kings,Islamabad United,Islamabad United,field,Islamabad United,5,0,Imran Khalid,Sharjah Cricket Stadium,JS Wilson,Aleem Dar,normal
+17,2016,2/16/2016,Lahore Qalandars,Quetta Gladiators,Quetta Gladiators,field,Quetta Gladiators,2,0,Bismillah Khan,Dubai International Cricket Stadium,JS Wilson,Aleem Dar,normal
+18,2016,2/17/2016,Lahore Qalandars,Islamabad United,Islamabad United,field,Islamabad United,5,0,Mohammad Irfan,Dubai International Cricket Stadium,JS Wilson,Aleem Dar,normal
+19,2016,2/17/2016,Karachi Kings,Peshawar Zalmi,Karachi Kings,bat,Peshawar Zalmi,5,0,BJ Hodge,Dubai International Cricket Stadium,Shozab Raza,Ahsan Raza,normal
+20,2016,2/19/2016,Quetta Gladiators,Peshawar Zalmi,Peshawar Zalmi,field,Quetta Gladiators,2,0,Mohammad Nawaz ,Dubai International Cricket Stadium,Shozab Raza,Aleem Dar,normal
+21,2016,2/20/2016,Karachi Kings,Islamabad United,Islamabad United,field,Islamabad United,9,0,Mohammad Sami,Dubai International Cricket Stadium,Ahsan Raza,Aleem Dar,normal
+22,2016,2/21/2016,Islamabad United,Peshawar Zalmi,Peshawar Zalmi,field,Islamabad United,0,50,Sharjeel Khan,Dubai International Cricket Stadium,JS Wilson,Aleem Dar,normal
+23,2016,2/23/2016,Quetta Gladiators,Islamabad United,Islamabad United,field,Islamabad United,0,6, DR Smith,Dubai International Cricket Stadium,JS Wilson,Aleem Dar,normal
+24,2017,2/9/2017,Islamabad United,Peshawar Zalmi,Islamabad United,field,Islamabad United,7,0,BJ Haddin,Dubai International Cricket Stadium,Shozab Raza,Ahsan Raza,normal
+25,2017,2/10/2017,Karachi Kings,Peshawar Zalmi,Peshawar Zalmi,field,Peshawar Zalmi,7,0,EJG Morgan,Dubai International Cricket Stadium,Ahmed Shahab,Ahsan Raza,normal
+26,2017,2/10/2017,Lahore Qalandars,Quetta Gladiators,Lahore Qalandars,field,Quetta Gladiators,0,8, Hassan Khan,Dubai International Cricket Stadium,Rashid Riaz,Shozab Raza,normal
+27,2017,2/11/2017,Karachi Kings,Quetta Gladiators,Quetta Gladiators,field,Quetta Gladiators,7,0,RR Rossouw,Dubai International Cricket Stadium,Aleem Dar,Rashid Riaz,normal
+28,2017,2/11/2017,Islamabad United,Lahore Qalandars,Lahore Qalandars,field,Lahore Qalandars,6,0,JJ Roy,Dubai International Cricket Stadium,Asif Yaqoob,Shozab Raza,normal
+29,2017,2/12/2017,Lahore Qalandars,Peshawar Zalmi,Peshawar Zalmi,field,Peshawar Zalmi,3,0,Yasir Shah,Dubai International Cricket Stadium,RK Illingworth,Aleem Dar,normal
+30,2017,2/15/2017,Islamabad United,Quetta Gladiators,Islamabad United,field,Islamabad United,5,0,SW Billings,Dubai International Cricket Stadium,RK Illingworth,Aleem Dar,normal
+31,2017,2/16/2017,Karachi Kings,Lahore Qalandars,Karachi Kings,field,Lahore Qalandars,0,7,Fakhar Zaman,Sharjah Cricket Stadium,Aleem Dar,RK Illingworth,normal
+32,2017,2/17/2017,Islamabad United,Karachi Kings,Karachi Kings,field,Karachi Kings,0,8, Babar Azam,Sharjah Cricket Stadium,Aleem Dar,RK Illingworth,normal
+33,2017,2/17/2017,Peshawar Zalmi,Quetta Gladiators,Quetta Gladiators,field,draw,0,0,,Sharjah Cricket Stadium,Ahsan Raza,Asif Yaqoob,draw
+34,2017,2/18/2017,Islamabad United,Peshawar Zalmi,Islamabad United,field,Islamabad United,5,0,Mohammad Sami,Sharjah Cricket Stadium,RK Illingworth,Aleem Dar,normal
+35,2017,2/18/2017,Lahore Qalandars,Quetta Gladiators,Quetta Gladiators,field,Quetta Gladiators,5,0,KP Pietersen,Sharjah Cricket Stadium,Rashid Riaz,Shozab Raza,normal
+36,2017,2/19/2017,Karachi Kings,Peshawar Zalmi,Peshawar Zalmi,field,Karachi Kings,0,9,shoaib Malik,Sharjah Cricket Stadium,Ahmed Shahab,Aleem Dar,normal
+37,2017,2/20/2017,Islamabad United,Lahore Qalandars,Lahore Qalandars,field,Lahore Qalandars,1,0, Umar Akmal,Sharjah Cricket Stadium,Ahmed Shahab,Ahsan Raza,normal
+38,2017,2/23/2017,Karachi Kings,Quetta Gladiators,Quetta Gladiators,field,Quetta Gladiators,6,0,Mahmudullah,Dubai International Cricket Stadium,REJ Martinesz,Aleem Dar,normal
+39,2017,2/24/2017,Islamabad United,Quetta Gladiators,Quetta Gladiators,field,Islamabad United,0,1,Mohammad Sami,Dubai International Cricket Stadium,Ahsan Raza,Aleem Dar,normal
+40,2017,2/24/2017,Lahore Qalandars,Peshawar Zalmi,Peshawar Zalmi,bat,Peshawar Zalmi,0,17,Shakib Al Hasan,Dubai International Cricket Stadium,REJ Martinesz,Shozab Raza,normal
+41,2017,2/25/2017,Peshawar Zalmi,Quetta Gladiators,Peshawar Zalmi,field,Peshawar Zalmi,2,0,Mohammad Asghar,Dubai International Cricket Stadium,Ahmed Shahab,Ahsan Raza,normal
+42,2017,2/25/2017,Karachi Kings,Lahore Qalandars,Karachi Kings,field,Karachi Kings,5,0,KA Pollard,Dubai International Cricket Stadium,REJ Martinesz,Shozab Raza,normal
+43,2017,2/26/2017,Islamabad United,Karachi Kings,Karachi Kings,field,Karachi Kings,6,0,CH Gayle,Dubai International Cricket Stadium,Aleem Dar,REJ Martinesz,normal
+44,2017,2/28/2017,Quetta Gladiators,Peshawar Zalmi,Peshawar Zalmi,field,Quetta Gladiators,0,1,Ahmed Shehzad,Dubai International Cricket Stadium,REJ Martinesz,Shozab Raza,normal
+45,2017,3/1/2017,Karachi Kings,Islamabad United,Islamabad United,field,Karachi Kings,0,44,Imad Wasim,Sharjah Cricket Stadium,REJ Martinesz,Shozab Raza,normal
+46,2017,3/3/2017,Peshawar Zalmi,Karachi Kings,Karachi Kings,field,Peshawar Zalmi,0,24,Kamran Akmal,Dubai International Cricket Stadium,REJ Martinesz,Ahsan Raza,normal
+47,2017,3/5/2017,Peshawar Zalmi,Quetta Gladiators,Quetta Gladiators,field,Peshawar Zalmi,0,58,DJG Sammy,Gaddafi Stadium,Ahsan Raza,REJ Martinesz,normal
+48,2018,2/22/2018,Peshawar Zalmi,Multan Sultans,Multan Sultans,field,Multan Sultans,7,0,KC Sangakkara,Dubai International Cricket Stadium,Ahmed Shahab,RT Robinson,normal
+49,2018,2/23/2018,Multan Sultans,Lahore Qalandars,Lahore Qalandars,field,Multan Sultans,0,43,Imran Tahir,Dubai International Cricket Stadium,Asif Yaqoob,RT Robinson,normal
+50,2018,2/23/2018,Karachi Kings,Quetta Gladiators,Karachi Kings,bat,Karachi Kings,0,19,CA Ingram,Dubai International Cricket Stadium,REJ Martinesz,Rashid Riaz,normal
+51,2018,2/24/2018,Quetta Gladiators,Lahore Qalandars,Quetta Gladiators,field,Quetta Gladiators,9,0,Mohammad Nawaz,Dubai International Cricket Stadium,Asif Yaqoob,RT Robinson,normal
+52,2018,2/24/2018,Islamabad United,Peshawar Zalmi,Islamabad United,field,Peshawar Zalmi,0,34,Umaid Asif,Dubai International Cricket Stadium,REJ Martinesz,Rashid Riaz,normal
+53,2018,2/25/2018,Karachi Kings,Peshawar Zalmi,Peshawar Zalmi,bat,Peshawar Zalmi,5,0,DR Smith,Dubai International Cricket Stadium,REJ Martinesz,RT Robinson,normal
+54,2018,2/25/2018,Multan Sultans,Islamabad United,Islamabad United,field,Islamabad United,5,0,Hussain Talat,Dubai International Cricket Stadium,REJ Martinesz,Rashid Riaz,normal
+55,2018,2/26/2018,Lahore Qalandars,Karachi Kings,Karachi Kings,bat,Karachi Kings,0,27,Shahid Afridi,Dubai International Cricket Stadium,RT Robinson,REJ Martinesz,normal
+56,2018,2/28/2018,Islamabad United,Quetta Gladiators,Quetta Gladiators,field,Quetta Gladiators,6,0,KP Pietersen,Sharjah Cricket Stadium,RT Robinson,REJ Martinesz,normal
+57,2018,3/1/2018,Quetta Gladiators,Peshawar Zalmi,Peshawar Zalmi,field,Peshawar Zalmi,5,0,DJG Sammy,Sharjah Cricket Stadium,RT Robinson,Aleem Dar,normal
+58,2018,3/2/2018,Lahore Qalandars,Islamabad United,Lahore Qalandars,field,Islamabad United,0,0,Mohammad Sami,Sharjah Cricket Stadium,Khalid Mahmood,REJ Martinesz,super over
+59,2018,3/3/2018,Peshawar Zalmi,Lahore Qalandars,Lahore Qalandars,bat,Peshawar Zalmi,10,0,LA Dawson,Sharjah Cricket Stadium,RT Robinson,REJ Martinesz,normal
+60,2018,3/3/2018,Quetta Gladiators,Multan Sultans,Multan Sultans,field,Multan Sultans,9,0,Sohail Tanvir,Sharjah Cricket Stadium,Aleem Dar,Ahmed Shahab,normal
+61,2018,3/4/2018,Karachi Kings,Islamabad United,Islamabad United,field,Islamabad United,8,0,L Ronchi,Sharjah Cricket Stadium,RT Robinson,Aleem Dar,normal
+62,2018,3/6/2018,Peshawar Zalmi,Multan Sultans,Peshawar Zalmi,field,Multan Sultans,0,19,Sohaib Maqsood,Dubai International Cricket Stadium,Asif Yaqoob,Aleem Dar,normal
+63,2018,3/7/2018,Multan Sultans,Quetta Gladiators,Quetta Gladiators,field,Quetta Gladiators,2,0,Umar Gul,Dubai International Cricket Stadium,RT Robinson,Aleem Dar,normal
+64,2018,3/8/2018,Karachi Kings,Quetta Gladiators,Karachi Kings,field,Quetta Gladiators,0,67,SR Watson,Dubai International Cricket Stadium,Shozab Raza,Asif Yaqoob,normal
+65,2018,3/8/2018,Lahore Qalandars,Islamabad United,Islamabad United,field,Islamabad United,6,0,L Ronchi,Dubai International Cricket Stadium,RT Robinson,Aleem Dar,normal
+66,2018,3/9/2018,Peshawar Zalmi,Islamabad United,Peshawar Zalmi,field,Islamabad United,0,26,JP Duminy,Dubai International Cricket Stadium,Ahmed Shahab,Aleem Dar,normal
+67,2018,3/9/2018,Lahore Qalandars,Multan Sultans,Multan Sultans,bat,Multan Sultans,6,0,Shaheen Shah Afridi,Dubai International Cricket Stadium,Asif Yaqoob,RT Robinson,normal
+68,2018,3/10/2018,Peshawar Zalmi,Quetta Gladiators,Quetta Gladiators,field,Quetta Gladiators,6,0,Sarfraz Ahmed,Dubai International Cricket Stadium,Ahmed Shahab,RT Robinson,normal
+69,2018,3/10/2018,Multan Sultans,Karachi Kings,Multan Sultans,field,Karachi Kings,0,63,Shahid Afridi,Dubai International Cricket Stadium,Asif Yaqoob,Aleem Dar,normal
+70,2018,3/11/2018,Karachi Kings,Lahore Qalandars,Lahore Qalandars,field,Lahore Qalandars,0,3,Agha Salman,Dubai International Cricket Stadium,RT Robinson,Aleem Dar,super over
+71,2018,3/13/2018,Multan Sultans,Islamabad United,Multan Sultans,field,Islamabad United,0,33,L Ronchi,Sharjah Cricket Stadium,Rashid Riaz,Aleem Dar,normal
+72,2018,3/14/2018,Quetta Gladiators,Lahore Qalandars,Quetta Gladiators,field,Lahore Qalandars,0,17,Fakhar Zaman,Sharjah Cricket Stadium,Rashid Riaz,RT Robinson,normal
+73,2018,3/15/2018,Quetta Gladiators,Islamabad United,Quetta Gladiators,bat,Islamabad United,6,0,JP Duminy,Sharjah Cricket Stadium,Khalid Mahmood,Aleem Dar,normal
+74,2018,3/15/2018,Karachi Kings,Peshawar Zalmi,Peshawar Zalmi,bat,Peshawar Zalmi,0,44,Kamran Akmal,Sharjah Cricket Stadium,Ahmed Shahab,Shozab Raza,normal
+75,2018,3/16/2018,Islamabad United,Karachi Kings,Karachi Kings,field,Karachi Kings,7,0,Usman Shinwari,Sharjah Cricket Stadium,Khalid Mahmood,Aleem Dar,normal
+76,2018,3/16/2018,Lahore Qalandars,Peshawar Zalmi,Lahore Qalandars,bat,Peshawar Zalmi,7,0,Kamran Akmal,Sharjah Cricket Stadium,Rashid Riaz,Shozab Raza,normal
+77,2018,3/18/2018,Karachi Kings,Islamabad United,Karachi Kings,bat,Islamabad United,8,0,L Ronchi,Dubai International Cricket Stadium,Rashid Riaz,Aleem Dar,normal
+78,2018,3/20/2018,Peshawar Zalmi,Quetta Gladiators,Quetta Gladiators,field,Peshawar Zalmi,0,1,Hasan Ali,Gaddafi Stadium,Rashid Riaz,Aleem Dar,normal
+79,2018,3/21/2018,Peshawar Zalmi,Karachi Kings,Karachi Kings,field,Peshawar Zalmi,0,13,Kamran Akmal,Gaddafi Stadium,Shozab Raza,Aleem Dar,normal
+80,2018,3/25/2018,Islamabad United,Peshawar Zalmi,Peshawar Zalmi,bat,Islamabad United,3,0,L Ronchi,National Stadium,Shozab Raza,Aleem Dar,normal
+81,2019,2/14/2019,Islamabad United,Lahore Qalandars,Islamabad United,field,Islamabad United,5,0,Faheem Ashraf,Dubai International Cricket Stadium,RK Illingworth,Rashid Riaz,normal
+82,2019,2/15/2019,Peshawar Zalmi,Quetta Gladiators,Quetta Gladiators,field,Quetta Gladiators,6,0,Umar Akmal,Dubai International Cricket Stadium,Shozab Raza,RK Illingworth,normal
+83,2019,2/15/2019,Karachi Kings,Multan Sultans,Karachi Kings,bat,Karachi Kings,0,7,LS Livingstone,Dubai International Cricket Stadium,REJ Martinesz,MA Gough,normal
+84,2019,2/16/2019,Karachi Kings,Lahore Qalandars,Karachi Kings,field,Lahore Qalandars,0,22,Haris Rauf,Dubai International Cricket Stadium,Shozab Raza,RK Illingworth,normal
+85,2019,2/16/2019,Islamabad United,Multan Sultans,Multan Sultans,field,Multan Sultans,5,0,Ali Shafiq,Dubai International Cricket Stadium,REJ Martinesz,Asif Yaqoob,normal
+86,2019,2/17/2019,Lahore Qalandars,Peshawar Zalmi,Peshawar Zalmi,field,Peshawar Zalmi,7,0,Hasan Ali,Dubai International Cricket Stadium,RK Illingworth,Rashid Riaz,normal
+87,2019,2/17/2019,Islamabad United,Quetta Gladiators,Quetta Gladiators,field,Quetta Gladiators,7,0,SR Watson,Dubai International Cricket Stadium,REJ Martinesz,Asif Yaqoob,normal
+88,2019,2/20/2019,Multan Sultans,Quetta Gladiators,Quetta Gladiators,field,Quetta Gladiators,8,0,SR Watson,Sharjah Cricket Stadium,Asif Yaqoob,Shozab Raza,normal
+89,2019,2/21/2019,Karachi Kings,Peshawar Zalmi,Karachi Kings,field,Peshawar Zalmi,0,44,Imam-ul-Haq,Sharjah Cricket Stadium,RK Illingworth,Rashid Riaz,normal
+90,2019,2/22/2019,Islamabad United,Peshawar Zalmi,Peshawar Zalmi,field,Islamabad United,0,12,Mohammad Sami,Sharjah Cricket Stadium,MA Gough,RK Illingworth,normal
+91,2019,2/22/2019,Lahore Qalandars,Multan Sultans,Lahore Qalandars,field,Lahore Qalandars,6,0,AB de Villiers,Sharjah Cricket Stadium,REJ Martinesz,Shozab Raza,normal
+92,2019,2/23/2019,Islamabad United,Karachi Kings,Islamabad United,field,Islamabad United,7,0,L Ronchi,Sharjah Cricket Stadium,Asif Yaqoob,RK Illingworth,normal
+93,2019,2/23/2019,Lahore Qalandars,Quetta Gladiators,Quetta Gladiators,field,Quetta Gladiators,3,0,Sarfraz Ahmed,Sharjah Cricket Stadium,REJ Martinesz,Shozab Raza,normal
+94,2019,2/24/2019,Karachi Kings,Quetta Gladiators,Karachi Kings,field,Karachi Kings,6,0,CA Ingram,Sharjah Cricket Stadium,RK Illingworth,Ahsan Raza,normal
+95,2019,2/24/2019,Multan Sultans,Peshawar Zalmi,Peshawar Zalmi,field,Peshawar Zalmi,5,0,Hasan Ali,Sharjah Cricket Stadium,REJ Martinesz,Shozab Raza,normal
+96,2019,2/26/2019,Islamabad United,Multan Sultans,Multan Sultans,field,Multan Sultans,6,0,DT Christian,Dubai International Cricket Stadium,RK Illingworth,Ahsan Raza,normal
+97,2019,2/27/2019,Islamabad United,Karachi Kings,Islamabad United,field,Islamabad United,5,0,Asif Ali,Dubai International Cricket Stadium,RK Illingworth,Ahsan Raza,normal
+98,2019,2/27/2019,Lahore Qalandars,Quetta Gladiators,Lahore Qalandars,field,Lahore Qalandars,8,0,Sandeep Lamichhane,Dubai International Cricket Stadium,REJ Martinesz,Shozab Raza,normal
+99,2019,2/28/2019,Karachi Kings,Lahore Qalandars,Karachi Kings,field,Karachi Kings,5,0,Iftikhar Ahmed,Dubai International Cricket Stadium,RK Illingworth,Rashid Riaz,normal
+100,2019,2/28/2019,Multan Sultans,Peshawar Zalmi,Peshawar Zalmi,field,Peshawar Zalmi,7,0, KA Pollard,Dubai International Cricket Stadium,REJ Martinesz,Asif Yaqoob,normal
+101,2019,3/1/2019,Multan Sultans,Quetta Gladiators,Quetta Gladiators,field,Quetta Gladiators,6,0,DJ Bravo,Dubai International Cricket Stadium,RK Illingworth,Ahsan Raza,normal
+102,2019,3/1/2019,Islamabad United,Peshawar Zalmi,Peshawar Zalmi,field,Peshawar Zalmi,4,0,LA Dawson,Dubai International Cricket Stadium,REJ Martinesz,Shozab Raza,normal
+103,2019,3/4/2019,Karachi Kings,Multan Sultans,Karachi Kings,field,Karachi Kings,5,0,Usman Shinwari,Sheikh Zayed Stadium,Shozab Raza,RK Illingworth,normal
+104,2019,3/4/2019,Peshawar Zalmi,Quetta Gladiators,Quetta Gladiators,field,Quetta Gladiators,8,0,SR Watson,Sheikh Zayed Stadium,REJ Martinesz,Asif Yaqoob,normal
+105,2019,3/5/2019,Islamabad United,Quetta Gladiators,Islamabad United,field,Islamabad United,0,43,Ahmed Shehzad,Sheikh Zayed Stadium,RK Illingworth,Rashid Riaz,normal
+106,2019,3/5/2019,Lahore Qalandars,Peshawar Zalmi,Peshawar Zalmi,field,Peshawar Zalmi,4,0,Misbah-ul-Haq,Sheikh Zayed Stadium,Asif Yaqoob,Ahsan Raza,normal
+107,2019,3/9/2019,Lahore Qalandars,Islamabad United,Lahore Qalandars,field,Lahore Qalandars,0,49,CS Delport,National Stadium,MA Gough,Shozab Raza,normal
+108,2019,3/10/2019,Karachi Kings,Quetta Gladiators,Quetta Gladiators,field,Karachi Kings,0,1,Usman Shinwari,National Stadium,REJ Martinesz,Asif Yaqoob,normal
+109,2019,3/11/2019,Lahore Qalandars,Multan Sultans,Multan Sultans,field,Multan Sultans,7,0,Mohammad Abbas,National Stadium,MA Gough,Rashid Riaz,normal
+110,2019,3/11/2019,Karachi Kings,Peshawar Zalmi,Karachi Kings,field,Peshawar Zalmi,0,61,Kamran Akmal,National Stadium,REJ Martinesz,Ahsan Raza,normal
+111,2019,3/13/2019,Peshawar Zalmi,Quetta Gladiators,Peshawar Zalmi,field,Quetta Gladiators,0,10,SR Watson,National Stadium,REJ Martinesz,Ahsan Raza,normal
+112,2019,3/14/2019,Islamabad United,Karachi Kings,Karachi Kings,bat,Islamabad United,4,0,AD Hales,National Stadium,Shozab Raza,MA Gough,normal
+113,2019,3/19/2019,Islamabad United,Peshawar Zalmi,Islamabad United,field,Peshawar Zalmi,0,48,Kamran Akmal,National Stadium,REJ Martinesz,Ahsan Raza,normal
+114,2019,3/19/2019,Quetta Gladiators,Peshawar Zalmi,Quetta Gladiators,field,Quetta Gladiators,8,0,Mohammad Hasnain,National Stadium,REJ Martinesz,Ahsan Raza,normal
+115,2020,2/20/2020,Islamabad United,Quetta Gladiators,Quetta Gladiators,field,Quetta Gladiators,3,0,Mohammad Hasnain,National Stadium,RK Illingworth,Faisal Afridi,normal
+116,2020,2/21/2020,Lahore Qalandars,Multan Sultans,Multan Sultans,field,Multan Sultans,5,0,Imran Tahir,Gaddafi Stadium,REJ Martinesz,Rashid Riaz,normal
+117,2020,2/21/2020,Karachi Kings,Peshawar Zalmi,Peshawar Zalmi,field,Karachi Kings,0,10,Babar Azam,National Stadium,RK Illingworth,Faisal Afridi,normal
+118,2020,2/22/2020,Islamabad United,Multan Sultans,Islamabad United,field,Islamabad United,8,0,L Ronchi,Gaddafi Stadium,REJ Martinesz,Shozab Raza,normal
+119,2020,2/22/2020,Peshawar Zalmi,Quetta Gladiators,Peshawar Zalmi,field,Peshawar Zalmi,6,0,Kamran Akmal,National Stadium,RK Illingworth,Faisal Afridi,normal
+120,2020,2/23/2020,Lahore Qalandars,Islamabad United,Islamabad United,field,Islamabad United,1,0,Shadab Khan,Gaddafi Stadium,REJ Martinesz,Rashid Riaz,normal
+121,2020,2/23/2020,Karachi Kings,Quetta Gladiators,Karachi Kings,bat,Quetta Gladiators,5,0,Azam Khan,National Stadium,RK Illingworth,Faisal Afridi,normal
+122,2020,2/26/2020,Multan Sultans,Peshawar Zalmi,Multan Sultans,field,Multan Sultans,6,0,Sohail Tanvir,Multan Cricket Stadium,Asif Yaqoob,Faisal Afridi,normal
+123,2020,2/27/2020,Islamabad United,Quetta Gladiators,Quetta Gladiators,field,Quetta Gladiators,5,0,BCJ Cutting,Rawalpindi Cricket Stadium,REJ Martinesz,Tariq Rasheed,normal
+124,2020,2/28/2020,Lahore Qalandars,Peshawar Zalmi,Lahore Qalandars,field,Peshawar Zalmi,0,16,L Gregory,Rawalpindi Cricket Stadium,REJ Martinesz,Tariq Rasheed,normal
+125,2020,2/28/2020,Multan Sultans,Karachi Kings,Karachi Kings,field,Multan Sultans,0,52,MM Ali,Multan Cricket Stadium,Shozab Raza,Faisal Afridi,normal
+126,2020,2/29/2020,Multan Sultans,Quetta Gladiators,Multan Sultans,bat,Multan Sultans,0,30,RR Rossouw,Multan Cricket Stadium,Asif Yaqoob,Faisal Afridi,normal
+127,2020,3/1/2020,Islamabad United,Karachi Kings,Karachi Kings,field,Karachi Kings,5,0,AD Hales,Rawalpindi Cricket Stadium,REJ Martinesz,Tariq Rasheed,normal
+128,2020,3/2/2020,Karachi Kings,Peshawar Zalmi,Karachi Kings,field,Karachi Kings,6,0,Mohammad Amir,Rawalpindi Cricket Stadium,REJ Martinesz,Tariq Rasheed,normal
+129,2020,3/3/2020,Lahore Qalandars,Quetta Gladiators,Quetta Gladiators,field,Lahore Qalandars,0,37,BR Dunk,Gaddafi Stadium,Shozab Raza,Faisal Afridi,normal
+130,2020,3/4/2020,Lahore Qalandars,Islamabad United,Lahore Qalandars,field,Islamabad United,0,71,C Munro,Gaddafi Stadium,Asif Yaqoob,Shozab Raza,normal
+131,2020,3/5/2020,Peshawar Zalmi,Quetta Gladiators,Quetta Gladiators,field,Peshawar Zalmi,0,30,Shoaib Malik,Rawalpindi Cricket Stadium,REJ Martinesz,Tariq Rasheed,normal
+132,2020,3/6/2020,Karachi Kings,Multan Sultans,Karachi Kings,field,draw,0,0,,Gaddafi Stadium,Shozab Raza,MA Gough,draw
+133,2020,3/7/2020,Lahore Qalandars,Quetta Gladiators,Lahore Qalandars,field,Lahore Qalandars,8,0,SR Patel,Gaddafi Stadium,Asif Yaqoob,MA Gough,normal
+134,2020,3/7/2020,Islamabad United,Peshawar Zalmi,Peshawar Zalmi,field,Peshawar Zalmi,0,7,Shadab Khan,Rawalpindi Cricket Stadium,Tariq Rasheed,Rashid Riaz,normal
+135,2020,3/8/2020,Lahore Qalandars,Karachi Kings,Lahore Qalandars,field,Lahore Qalandars,8,0,BR Dunk,Gaddafi Stadium,Shozab Raza,MA Gough,normal
+136,2020,3/8/2020,Islamabad United,Multan Sultans,Multan Sultans,field,Multan Sultans,9,0,JM Vince,Rawalpindi Cricket Stadium,REJ Martinesz,Tariq Rasheed,normal
+137,2020,3/10/2020,Lahore Qalandars,Peshawar Zalmi,Lahore Qalandars,field,Lahore Qalandars,5,0,Fakhar Zaman,Gaddafi Stadium,MA Gough,Aleem Dar,normal
+138,2020,3/12/2020,Karachi Kings,Lahore Qalandars,Karachi Kings,field,Karachi Kings,10,0,Sharjeel Khan,National Stadium,MA Gough,Ahsan Raza,normal
+139,2020,3/13/2020,Multan Sultans,Peshawar Zalmi,Peshawar Zalmi,field,Multan Sultans,0,3,Zeeshan Ashraf,National Stadium,MA Gough,Rashid Riaz,normal
+140,2020,3/14/2020,Karachi Kings,Islamabad United,Karachi Kings,field,Karachi Kings,4,0,Sharjeel Khan,National Stadium,MA Gough,Ahsan Raza,normal
+141,2020,3/15/2020,Karachi Kings,Quetta Gladiators,Karachi Kings,bat,Quetta Gladiators,5,0,SR Watson,National Stadium,MA Gough,Rashid Riaz,normal
+142,2020,3/15/2020,Lahore Qalandars,Multan Sultans,Lahore Qalandars,field,Lahore Qalandars,9,0,CA Lynn,Gaddafi Stadium,Shozab Raza,Aleem Dar,normal
+143,2020,11/14/2020,Peshawar Zalmi,Lahore Qalandars,Lahore Qalandars,field,Lahore Qalandars,5,0,Mohammad Hafeez,National Stadium,Shozab Raza,Aleem Dar,normal
+144,2020,11/14/2020,Multan Sultans,Karachi Kings,Karachi Kings,field,Karachi Kings,0,0,Babar Azam,National Stadium,MA Gough,Rashid Riaz,super over
+145,2020,11/15/2020,Lahore Qalandars,Multan Sultans,Multan Sultans,field,Lahore Qalandars,0,25,D Wiese,National Stadium,MA Gough,Aleem Dar,normal
+146,2020,11/17/2020,Lahore Qalandars,Karachi Kings,Lahore Qalandars,bat,Karachi Kings,5,0,Babar Azam,National Stadium,MA Gough,Aleem Dar,normal
